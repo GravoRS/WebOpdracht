@@ -1,15 +1,16 @@
+@import url('http://fonts.googleapis.com/css?family=Ubuntu');
 body {
 	margin: 0;
 	padding: 0;
-	font-family: 'arial', serif;
+	font-family: 'Ubuntu', serif;
 	background-color: #ffffff;
 }
 
-h1, h2, h3 {font-family: 'arial', serif;}
+h1, h2, h3 {font-family: 'Ubuntu', serif;}
 h1, h2, h3 {font-weight: bold;}
 /*belangrijk voor alle zogenoemde pragrafen*/
 p {
-	font-family: 'arial', serif;
+	font-family: 'Ubuntu', serif;
 	font-size: 2.5vmin;
 	margin: 4vh 5vw;
 	text-align: left;
