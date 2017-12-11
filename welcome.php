@@ -36,7 +36,7 @@ Aliquam fermentum elit massa, quis tincidunt arcu auctor et. Vestibulum vestibul
 $to = $_POST[email];
 $subject = "Contact";
 $txt = "Bedankt voor het contact opnemen $_POST[name]! We zullen contact met u opnemen op $_POST[email].";
-$headers = "From: webmaster@example.com" . "\r\n" .
+$headers = "From: teamnaam@inkumail.nl";
 
 
 mail($to,$subject,$txt,$headers);
